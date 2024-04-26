@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Koe Na Win</string>
+    <string name="app_name_burmese">"ကိုးနဝင်း"</string>
+    <string name="level">အဆင့် %1$s</string>
+    <string name="times">%1$s ပတ် (%2$s/%3$s)</string>
+    <string name="reminder_text">ပုတီးစိပ်ကြပါမယ်။</string>
+    <string name="reminder_title">Reminder</string>
+    <string name="notification_dialog_title">Notification</string>
+    <string name="benefits_dialog_title">အကျိုးကျေးဇူးများ</string>
+    <string name="notify_confirm_button_text">NOTIFY</string>
+    <string name="set_pager_button_text">SET</string>
+    <string name="day_selection_label">အဓိဋ္ဌာန်</string>
+</resources>
